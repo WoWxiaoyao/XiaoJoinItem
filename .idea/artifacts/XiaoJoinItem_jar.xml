@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XiaoJoinItem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XiaoJoinItem_jar</output-path>
+    <root id="archive" name="XiaoJoinItem.jar">
+      <element id="module-output" name="XiaoJoinItem" />
+    </root>
+  </artifact>
+</component>
